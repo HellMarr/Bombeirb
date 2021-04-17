@@ -1,6 +1,6 @@
 # Bombeirb
 C coding Project during my first year as an engineering student at Enseirb-Matmeca
-WARNING : You must have SDL librairies on your computer to play this game
+WARNING : You must have SDL librairies on your computer to play this game (see install.md)
 
 Here are the commands to launch the game
 
