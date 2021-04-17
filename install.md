@@ -23,6 +23,7 @@ Sous MacOS vous devez installer dans un premier temps le gestionnaire de paquets
 ```
 $ brew install sdl
 $ brew install sdl_image
+$ brew install sdl_mixer
 ```
 
 ## Windows
