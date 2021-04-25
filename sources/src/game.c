@@ -368,10 +368,10 @@ static short input_keyboard(struct game* game) {
 					//on load la save
 					 FILE *fichierp1=NULL;
 				     fichierp1 = fopen("src/savep1.txt", "r+");
-					 if (ftell(fichierp1) == 0){
-						printf("Vous n'avez pas de partie sauvegardée\n");
-						break;
-					 }
+					 //if (ftell(fichierp1) == 0){
+					//	printf("Vous n'avez pas de partie sauvegardée\n");
+					//	break;
+					// }
 					 while (i<lecturefichier(0)){
 						 next_level(game);
 						 i++;
